@@ -1,11 +1,11 @@
 # DSCI-591
-Exploratory Data Analysis of COVID-19 Data
+An Exploratory Data Analysis of COVID-19 Data
 
-Description:
+## Description:
 COVID-19 has affected people around the globe in 2020. This pandemic has arosen a new disease that has affected and killed millions worldwide. In the midst of trying to understand this new virus, we explored the trends of day to day coronavirus numbers from each country.  
 
 
-Data websites:
+## Data websites:
 
 https://covid.ourworldindata.org/
 
