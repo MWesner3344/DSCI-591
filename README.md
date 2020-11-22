@@ -38,7 +38,7 @@ pandas, numpy, matplotlib.pyplot, seaborn, sklearn, missingpy, scipy, plotly.exp
     <li>India: 360 deaths per day</li>
 </ul>
 
-<li>The United States and Brazilhas mortality rates that increase the most rapidly</li>
+<li>The United States and Brazil has mortality rates that increase the most rapidly</li>
 <li>North and South America has the highest increase in covid cases and deaths</li>
 <li>Oceania has the least covid cases and deaths specifically in New Zealand</li>
 <li>Males have a higher risk of death than females (10 males: 7 females)</li>
