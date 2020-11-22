@@ -2,7 +2,7 @@
 An Exploratory Data Analysis of COVID-19 Data
 
 ## Description:
-COVID-19 has affected millions of people around the globe in 2020. In an attempt to understand this novel coronavirus, we explored the trends of day to day coronavirus numbers from each country. Our aim is to do time series analysis using COVID-19 dataset which is available from the dates 1st January 2020 to 3rd October 2020 and performing exploratory data analysis on different features present in the dataset. We are implementing different types of visualization. Attempt to find most important features of dataset using machine learning.
+COVID-19 has affected millions of people around the globe in 2020. In an attempt to understand this novel coronavirus, we explored the trends of day to day coronavirus numbers from each country. Our aim is to do time series analysis using COVID-19 dataset which is available from the dates 1st January 2020 to 3rd October 2020 and performing exploratory data analysis on different features present in the dataset. We are implementing different types of visualizations and attempt to find most important features of dataset using machine learning.
  
 
 
