@@ -2,13 +2,34 @@
 An Exploratory Data Analysis of COVID-19 Data
 
 ## Description:
-COVID-19 has affected millions of people around the globe in 2020. In an attempt to understand this novel coronavirus, we explored the trends of day to day coronavirus numbers from each country.  
+COVID-19 has affected millions of people around the globe in 2020. In an attempt to understand this novel coronavirus, we explored the trends of day to day coronavirus numbers from each country. Our aim is to do time series analysis using COVID-19 dataset which is available from the dates 1st January 2020 to 3rd October 2020 and performing exploratory data analysis on different features present in the dataset. We are implementing different types of visualization. Attempt to find most important features of dataset using machine learning.
+ 
 
 
-## Data websites:
+## Dataset Resources:
 
 https://covid.ourworldindata.org/
 
 https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku
 
 https://globalhealth5050.org/the-sex-gender-and-covid-19-project/dataset/
+
+
+## Library Imports:
+pandas, numpy, matplotlib.pyplot, seaborn, sklearn, missingpy, scipy, plotly.express
+
+## Overall Findings:
+- The United States, Brazil, India has the most deaths per day
+<ul>
+    <li>US: 700 deaths per day</li>
+    <li>Brazil: 500 deaths per day</li>
+    <li>India: 360 deaths per day</li>
+</ul>
+- The United States and Brazilhas mortality rates that increase the most rapidly
+- North and South America has the highest increase in covid cases and deaths
+- Oceania has the least covid cases and deaths specifically in New Zealand
+- Males have a higher risk of death than females (10 males: 7 females)
+- Those that are above 65 years old have the highest risk of death
+- France, Italy, and Belgium have the highest case fatality rate
+
+
