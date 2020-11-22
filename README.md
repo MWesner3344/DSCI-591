@@ -19,17 +19,21 @@ https://globalhealth5050.org/the-sex-gender-and-covid-19-project/dataset/
 pandas, numpy, matplotlib.pyplot, seaborn, sklearn, missingpy, scipy, plotly.express
 
 ## Overall Findings:
-- The United States, Brazil, India has the most deaths per day
+<ul>
+<li>The United States, Brazil, India has the most deaths per day
+
 <ul>
     <li>US: 700 deaths per day</li>
     <li>Brazil: 500 deaths per day</li>
     <li>India: 360 deaths per day</li>
 </ul>
-- The United States and Brazilhas mortality rates that increase the most rapidly
-- North and South America has the highest increase in covid cases and deaths
-- Oceania has the least covid cases and deaths specifically in New Zealand
-- Males have a higher risk of death than females (10 males: 7 females)
-- Those that are above 65 years old have the highest risk of death
-- France, Italy, and Belgium have the highest case fatality rate
+
+<li>The United States and Brazilhas mortality rates that increase the most rapidly</li>
+<li>North and South America has the highest increase in covid cases and deaths</li>
+<li>Oceania has the least covid cases and deaths specifically in New Zealand</li>
+<li>Males have a higher risk of death than females (10 males: 7 females)</li>
+<li>Those that are above 65 years old have the highest risk of death</li>
+<li>France, Italy, and Belgium have the highest case fatality rate</li>
+</ul>
 
 
