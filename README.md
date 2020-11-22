@@ -19,10 +19,16 @@ https://globalhealth5050.org/the-sex-gender-and-covid-19-project/dataset/
 pandas, numpy, matplotlib.pyplot, seaborn, sklearn, missingpy, scipy, plotly.express
 
 ## Exploratory Data Analysis Visualizations:
-<br>
-<br>
-<br>
 
+<img src="Visualizations/Total Cases by Country.png" height="500">
+
+<img src="Visualizations/Top 10 Mortality Rates.png" height="500">
+
+<img src="Visualizations/Cases by Gender.png" height="500" width="400">
+
+<img src="Visualizations/Deaths by Gender and Age.png" height="550">
+
+<img src="Visualizations/Spearman Matrix.png" height="700">
 
 
 
