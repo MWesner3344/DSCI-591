@@ -48,6 +48,7 @@ pandas, numpy, matplotlib.pyplot, seaborn, sklearn, missingpy, scipy, plotly.exp
 <li>North and South America has the highest increase in covid cases and deaths</li>
 <li>Oceania has the least covid cases and deaths specifically in New Zealand</li>
 <li>Males have a higher risk of death than females (10 males: 7 females)</li>
+<li>Vietnam, Cabo, Brazil and Canada have higher percentage of females that contracted COVID-19</li>
 <li>Those that are above 65 years old have the highest risk of death</li>
 <li>France, Italy, and Belgium had the highest case fatality rate</li>
 </ul>
